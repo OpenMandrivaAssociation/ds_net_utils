@@ -1,7 +1,7 @@
 Summary:	DanSoft Net Utils
 Name:		ds_net_utils
-Version:	0.1
-Release:	2
+Version:	0.2
+Release:	1
 License:	GPLv2+
 Group:		Networking/Other
 Url:		http://dansoft.krasnokamensk.ru
