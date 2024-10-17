@@ -4,7 +4,7 @@ Version:	0.2
 Release:	2
 License:	GPLv2+
 Group:		Networking/Other
-Url:		http://dansoft.krasnokamensk.ru
+Url:		https://dansoft.krasnokamensk.ru
 Source0:	http://dansoft.krasnokamensk.ru/data/1017/%{name}-%{version}.tar.gz
 BuildRequires:	qt4-devel
 
